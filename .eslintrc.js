@@ -33,5 +33,6 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'error',
     'no-plusplus': ['error', { allowForLoopAfterthoughts: true }],
+    'react/forbid-prop-types': 0,
   },
 };
